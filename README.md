@@ -1,11 +1,11 @@
 # Hi there, I'm Huma Ashraf 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Laravel+Developer;PHP+Developer;WordPress+Developer;Frontend+Developer;CodeIgniter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+Next.js;React.js+and+Frontend+Templates;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=humaashraf&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=humaashraf&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -129,5 +129,19 @@ I enjoy creating clean, responsive, and user-friendly web applications.
 </div>
 
 <div align="center">
-  <b>✨ Thanks for visiting my profile ✨</b>
+  <b>⭐ Star some repositories if you like my work!</b>
+</div>
+
+---
+
+<div align="center">
+  <i>"Building scalable web applications with Laravel, PHP, and modern web technologies."</i><br>
+  <b>— Huma Ashraf</b>
+</div>
+
+<br>
+
+<div align="center">
+  <b>✨ Thanks for visiting my developer profile ✨</b><br>
+  <i>Let’s build something impactful together!</i>
 </div>
