@@ -52,9 +52,6 @@ I enjoy creating clean, responsive, and user-friendly web applications.
 ### 📊 Project Management Tools
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
 
 ### ⚙️ Workflow & Tools
 
@@ -112,12 +109,16 @@ I enjoy creating clean, responsive, and user-friendly web applications.
 
 <div align="center">
 
-<a href="https://github.com/humaashraf">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/huma-ashraf-56ba362a6">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:huma09ashraf@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/humaashraf">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
